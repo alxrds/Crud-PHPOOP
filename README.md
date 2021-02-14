@@ -1,6 +1,6 @@
 # CRUD-PHPOOP
 
-## Crud PhP OOP 
+## Crud com PhP OOP 
 
 ### Bootstrap 4, SweetAlert2, Font Awesome e Ajax
 
